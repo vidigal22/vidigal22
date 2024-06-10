@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá! Sou _vinicius Vidigal_ e sou apaixonado por transformar dados em informações valiosas.
 
-<!--
-**vidigal22/vidigal22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🚀 Atualmente, estou começando minha jornada como Analista de Dados, com foco em MySQL e Python.
+ 
+ 🔍 O que eu faço:
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white " />
+Manipulação e consulta de bancos de dados relacionais para extrair insights significativos.
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+Utilização de bibliotecas como Pandas, NumPy e Matplotlib para análise e visualização de dados.
+</div>
+
+---
+🎯 Objetivo:
+
+Desenvolver habilidades avançadas em análise de dados para ajudar empresas a tomarem decisões informadas e estratégicas.
+
+🌱Aprendizado contínuo:
+
+Estou constantemente aprendendo e aprimorando minhas habilidades através de cursos online, projetos práticos e leitura de artigos da comunidade de dados.
+
+---
+
+🔗 Conecte-se comigo:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-barreto-vidigal-726868247)
+
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinicius.b.vidigal@gmail)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(24)974047427)
+
+## Estou empolgado para colaborar em projetos interessantes e contribuir para a comunidade de dados! Vamos transformar dados em conhecimento juntos!
