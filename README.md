@@ -27,10 +27,10 @@ Estou constantemente aprendendo e aprimorando minhas habilidades através de cur
 
 🔗 Conecte-se comigo:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vinicius-barreto-vidigal-726868247)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vinicius-barreto-vidigal-726868247)
 
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vinicius.b.vidigal@gmail)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinicius.b.vidigal@gmail.com)
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+55(24)974047427)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5524974047427)
 
 ## Estou empolgado para colaborar em projetos interessantes e contribuir para a comunidade de dados! Vamos transformar dados em conhecimento juntos!
