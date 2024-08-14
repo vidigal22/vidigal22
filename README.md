@@ -6,13 +6,19 @@
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white " />
-Manipulação e consulta de bancos de dados relacionais para extrair insights significativos.
+- Manipulação e consulta de bancos de dados relacionais para extrair insights significativos.
 </div>
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-Utilização de bibliotecas como Pandas, NumPy e Matplotlib para análise e visualização de dados.
+- Utilização de bibliotecas como Pandas, NumPy e Matplotlib para análise e visualização de dados.
 </div>
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="PowerBI" src="https://img.shields.io/badge/Power BI-FFA116?style=for-the-badge&logo=powerbi&logoColor=white" />
+- Criação de dashboards interativos e dinâmicos para visualizar e explorar dados
+</div>
+
 
 ---
 🎯 Objetivo:
