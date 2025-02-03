@@ -1,4 +1,4 @@
-# 👋 Olá! Sou _vinicius Vidigal_ e sou apaixonado por transformar dados em informações valiosas.
+# 👋 Olá! Sou _Vinicius Vidigal_ e sou apaixonado por transformar dados em informações valiosas.
 
  🚀 Atualmente, estou começando minha jornada como Analista de Dados, com foco em MySQL e Python.
  
